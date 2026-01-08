@@ -1,0 +1,8 @@
+fastcgi_params
+fastcgi.conf
+koi-utf
+koi-win
+mime.types
+scgi_params
+uwsgi_params
+win-utf
